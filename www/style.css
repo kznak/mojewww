@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: green;
+}
+p {
+  color: red;
+  font-style: italic;
+}
+a {
+  color: black;
+}
+header{
+  text-align: center;
+  font-size: 100px;
+  background-color: white;
+  border:2px solid black  ;
+}
